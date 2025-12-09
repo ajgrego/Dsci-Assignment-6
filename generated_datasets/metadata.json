@@ -1,0 +1,704 @@
+[
+  {
+    "file": "breast_cancer__CLEAN.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "CLEAN",
+    "rate": 0.0,
+    "seed": null,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MCAR__10pct__seed0.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MCAR__10pct__seed42.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MCAR__30pct__seed0.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MCAR__30pct__seed42.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MAR__10pct__seed0.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MAR__10pct__seed42.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MAR__30pct__seed0.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MAR__30pct__seed42.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MNAR__10pct__seed0.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MNAR__10pct__seed42.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MNAR__30pct__seed0.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "breast_cancer__MNAR__30pct__seed42.csv",
+    "dataset": "breast_cancer",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 569,
+    "cols": 31
+  },
+  {
+    "file": "wine__CLEAN.csv",
+    "dataset": "wine",
+    "missing_type": "CLEAN",
+    "rate": 0.0,
+    "seed": null,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MCAR__10pct__seed0.csv",
+    "dataset": "wine",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MCAR__10pct__seed42.csv",
+    "dataset": "wine",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MCAR__30pct__seed0.csv",
+    "dataset": "wine",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MCAR__30pct__seed42.csv",
+    "dataset": "wine",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MAR__10pct__seed0.csv",
+    "dataset": "wine",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MAR__10pct__seed42.csv",
+    "dataset": "wine",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MAR__30pct__seed0.csv",
+    "dataset": "wine",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MAR__30pct__seed42.csv",
+    "dataset": "wine",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MNAR__10pct__seed0.csv",
+    "dataset": "wine",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MNAR__10pct__seed42.csv",
+    "dataset": "wine",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MNAR__30pct__seed0.csv",
+    "dataset": "wine",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "wine__MNAR__30pct__seed42.csv",
+    "dataset": "wine",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 178,
+    "cols": 14
+  },
+  {
+    "file": "diabetes__CLEAN.csv",
+    "dataset": "diabetes",
+    "missing_type": "CLEAN",
+    "rate": 0.0,
+    "seed": null,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MCAR__10pct__seed0.csv",
+    "dataset": "diabetes",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MCAR__10pct__seed42.csv",
+    "dataset": "diabetes",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MCAR__30pct__seed0.csv",
+    "dataset": "diabetes",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MCAR__30pct__seed42.csv",
+    "dataset": "diabetes",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MAR__10pct__seed0.csv",
+    "dataset": "diabetes",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MAR__10pct__seed42.csv",
+    "dataset": "diabetes",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MAR__30pct__seed0.csv",
+    "dataset": "diabetes",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MAR__30pct__seed42.csv",
+    "dataset": "diabetes",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MNAR__10pct__seed0.csv",
+    "dataset": "diabetes",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MNAR__10pct__seed42.csv",
+    "dataset": "diabetes",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MNAR__30pct__seed0.csv",
+    "dataset": "diabetes",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "diabetes__MNAR__30pct__seed42.csv",
+    "dataset": "diabetes",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 442,
+    "cols": 11
+  },
+  {
+    "file": "california__CLEAN.csv",
+    "dataset": "california",
+    "missing_type": "CLEAN",
+    "rate": 0.0,
+    "seed": null,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MCAR__10pct__seed0.csv",
+    "dataset": "california",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MCAR__10pct__seed42.csv",
+    "dataset": "california",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MCAR__30pct__seed0.csv",
+    "dataset": "california",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MCAR__30pct__seed42.csv",
+    "dataset": "california",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MAR__10pct__seed0.csv",
+    "dataset": "california",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MAR__10pct__seed42.csv",
+    "dataset": "california",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MAR__30pct__seed0.csv",
+    "dataset": "california",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MAR__30pct__seed42.csv",
+    "dataset": "california",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MNAR__10pct__seed0.csv",
+    "dataset": "california",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MNAR__10pct__seed42.csv",
+    "dataset": "california",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MNAR__30pct__seed0.csv",
+    "dataset": "california",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "california__MNAR__30pct__seed42.csv",
+    "dataset": "california",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 20640,
+    "cols": 9
+  },
+  {
+    "file": "synthetic_clf__CLEAN.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "CLEAN",
+    "rate": 0.0,
+    "seed": null,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MCAR__10pct__seed0.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MCAR__10pct__seed42.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MCAR__30pct__seed0.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MCAR__30pct__seed42.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MAR__10pct__seed0.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MAR__10pct__seed42.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MAR__30pct__seed0.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MAR__30pct__seed42.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MNAR__10pct__seed0.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MNAR__10pct__seed42.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MNAR__30pct__seed0.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_clf__MNAR__30pct__seed42.csv",
+    "dataset": "synthetic_clf",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__CLEAN.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "CLEAN",
+    "rate": 0.0,
+    "seed": null,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MCAR__10pct__seed0.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MCAR__10pct__seed42.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MCAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MCAR__30pct__seed0.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MCAR__30pct__seed42.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MCAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MAR__10pct__seed0.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MAR__10pct__seed42.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MAR__30pct__seed0.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MAR__30pct__seed42.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MNAR__10pct__seed0.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MNAR__10pct__seed42.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MNAR",
+    "rate": 0.1,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MNAR__30pct__seed0.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 0,
+    "rows": 2000,
+    "cols": 13
+  },
+  {
+    "file": "synthetic_reg__MNAR__30pct__seed42.csv",
+    "dataset": "synthetic_reg",
+    "missing_type": "MNAR",
+    "rate": 0.3,
+    "seed": 42,
+    "rows": 2000,
+    "cols": 13
+  }
+]
